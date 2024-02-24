@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMIMVVM</string>
+    <string name="title">Body Mass Index</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="res_text">"Body Mass Index is %s"</string>
+</resources>
